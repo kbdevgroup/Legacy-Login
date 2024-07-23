@@ -19,6 +19,7 @@ final class Handlers
 		'craft2' => Craft2Handler::class,
 		'craft3' => Craft3Handler::class,
 		'craft4' => Craft4Handler::class,
+		'craft5' => Craft5Handler::class,
 		'ee2' => EE2Handler::class,
 		'wellspring' => '',
 		'wordpress' => WordpressHandler::class,
