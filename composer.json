@@ -1,5 +1,5 @@
 {
-    "name": "kbdevgroup/legacy-login",
+    "name": "topshelfcraft/legacy-login",
     "description": "Seamless legacy user authentication for Craft CMS",
     "type": "craft-plugin",
     "version": "5.0.0",
